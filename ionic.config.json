@@ -1,0 +1,8 @@
+{
+  "name": "androinionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "a7e2492f"
+}
